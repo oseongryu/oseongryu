@@ -1,7 +1,3 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oseongryu&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
-
-<div>
-
 ## Blog
 
 [![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=plastic&logo=github&link=https://oseongryu.github.io)](https://oseongryu.github.io)
